@@ -14,6 +14,6 @@ module.exports={
 }
 ```
 
-Short Demo:
+Short Demo (click to watch on youtube):
 [![Instasham Demo](https://res.cloudinary.com/devuploads/image/upload/v1654674138/ojmbzh5twwxqob7k8i6k.png)](https://youtu.be/TNA76VPqDLY "Instasham Demo")
 
