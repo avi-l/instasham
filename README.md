@@ -15,5 +15,5 @@ module.exports={
 ```
 
 Short Demo:
-[![Instasham Demo](https://img.youtube.com/vi/TNA76VPqDLY)](https://youtu.be/TNA76VPqDLY "Instasham Demo")
+[![Instasham Demo](https://res.cloudinary.com/devuploads/image/upload/v1654674138/ojmbzh5twwxqob7k8i6k.png)](https://youtu.be/TNA76VPqDLY "Instasham Demo")
 
