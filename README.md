@@ -4,7 +4,7 @@ Instagram clone
 
 MERN Stack Instagram type application.
 Requires an atlas MongoDB (free account works fine).
-Place your keys MongoDB credentials into a keys.js file in root level of server/
+Place your MongoDB credentials into a keys.js file in root level of server/
 i.e.
 
 ```
